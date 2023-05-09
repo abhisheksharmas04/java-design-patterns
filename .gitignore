@@ -46,3 +46,5 @@ build/
 .vscode/
 /strategy-design-pattern/target
 adapter-desing-pattern/src/test/java/com/ab/adapter/AppTest.java
+flyweightDP/flyweightDP-solution/src/test/java/com/ab/flyweight/example/AppTest.java
+flyweightDP/flyweightDP-solution/target/
